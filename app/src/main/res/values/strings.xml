@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetroidDemo</string>
+
+    <string name="download">下载</string>
+    <string name="continued">继续</string>
+    <string name="pause">暂停</string>
+    <string name="success">成功</string>
+    <string name="error">失败</string>
+</resources>
